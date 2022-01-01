@@ -1,4 +1,4 @@
-# avoid-injeolmi
+# injeolmi-snake
 
 ## 후원문의
 `인절미만 받습니다.`
